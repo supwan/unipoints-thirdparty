@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Muji Malaysia",
+    "type": "barcode",
+    "format": "CODE128",
+    "last_updated": "2026-06-06T00:00:00Z"
+  },
+  {
+    "name": "H&M Malaysia",
+    "type": "barcode",
+    "format": "CODE128",
+    "last_updated": "2026-06-06T00:00:00Z"
+  },
+  {
+    "name": "Marrybrown Malaysia",
+    "type": "barcode",
+    "format": "CODE128",
+    "last_updated": "2026-06-06T00:00:00Z"
+  },
+  {
+    "name": "UNIQLO Malaysia",
+    "type": "barcode",
+    "format": "EAN-13",
+    "last_updated": "2026-06-06T00:00:00Z"
+  },
+  {
+    "name": "7-Evelen Malaysia",
+    "type": "barcode",
+    "format": "CODE128",
+    "last_updated": "2026-06-06T00:00:00Z"
+  },
+  {
+    "name": "Hot and Roll Malaysia",
+    "type": "barcode",
+    "format": "CODE128",
+    "last_updated": "2026-06-06T00:00:00Z"
+  },
+  {
+    "name": "myNews Malaysia",
+    "type": "barcode",
+    "format": "CODE128",
+    "last_updated": "2026-06-06T00:00:00Z"
+  },
+  {
+    "name": "Jaya Grocer (Grab)",
+    "type": "barcode",
+    "format": "CODE128",
+    "last_updated": "2026-06-06T00:00:00Z"
+  },
+  {
+    "name": "Juice Works",
+    "type": "barcode",
+    "format": "CODE128",
+    "last_updated": "2026-06-06T00:00:00Z"
+  }
+]
