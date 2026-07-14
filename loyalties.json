@@ -61,5 +61,12 @@
     "type": "barcode",
     "format": "EAN-13",
     "last_updated": "2026-06-06T00:00:00Z"
+  },
+  {
+    "id": 10,
+    "name": "adidas",
+    "type": "barcode",
+    "format": "CODE128",
+    "last_updated": "2026-07-14T00:00:00Z"
   }
 ]
