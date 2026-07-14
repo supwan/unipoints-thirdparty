@@ -68,5 +68,12 @@
     "type": "barcode",
     "format": "CODE128",
     "last_updated": "2026-07-14T00:00:00Z"
-  }
+  },
+  {
+    "id": 11,
+    "name": "ASICS",
+    "type": "barcode",
+    "format": "CODE128",
+    "last_updated": "2026-07-14T00:00:00Z"
+  },
 ]
